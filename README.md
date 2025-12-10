@@ -141,15 +141,15 @@ Steps:
 
 4) Build command:
 
-Static site → (none)
+    Static site → (none)
 
-Vite/React → npm run build
+    Vite/React → npm run build
 
 5) Output directory:
 
-Static → /
+    Static → /
 
-Vite → /dist
+    Vite → /dist
 
 6) Click Deploy 🎉
 
