@@ -98,17 +98,29 @@ Then open http://localhost:5173 or your live-server port.
 
 project-root/
 │
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 ├── /assets/
+
 │ ├── images/
+
 │ ├── icons/
+
 │ └── fonts/
+
 ├── /js/
+
 │ ├── gsap.min.js
+
 │ ├── locomotive-scroll.min.js
+
 │ └── main.js
+
 └── vercel.json
 
 ---
