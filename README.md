@@ -132,26 +132,26 @@ This project is deployed using Vercel
 
 Steps:
 
-Push your code to GitHub
+1) Push your code to GitHub
 
-Go to vercel.com
+2) Go to vercel.com
  → Import your repo
 
-Framework preset: Vite or Other (for static)
+3) Framework preset: Vite or Other (for static)
 
-Build command:
+4) Build command:
 
 Static site → (none)
 
 Vite/React → npm run build
 
-Output directory:
+5) Output directory:
 
 Static → /
 
 Vite → /dist
 
-Click Deploy 🎉
+6) Click Deploy 🎉
 
 Get your link → https://aryanambre.vercel.app
 
@@ -160,8 +160,11 @@ Get your link → https://aryanambre.vercel.app
 ## 🌈 Design System
 
 Fonts: Inter, Bookman Old Style
+
 Colors: Neon Blue #5df5ff, Violet #a020f0, Pink #ff78f0
+
 UI Style: Glassmorphism + Glow Effects
+
 Animation Style: Cinematic fade-ins, parallax motion, blur transitions
 
 ## 💡 Future Enhancements
