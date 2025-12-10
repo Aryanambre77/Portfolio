@@ -36,14 +36,12 @@ body {
 
 html, body {
   height: 100%;
-  overflow: auto;
 }
 
 #scroll-container {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  overflow: auto;
 }
 
 a {
