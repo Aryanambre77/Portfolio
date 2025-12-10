@@ -34,6 +34,12 @@ document.addEventListener("DOMContentLoaded", () => {
   const loco = new LocomotiveScroll({
     el: scrollContainer,
     smooth: true,
+    smartphone: {
+    smooth: true
+  },
+  tablet: {
+    smooth: true
+  },
     multiplier: 1.05,
     lerp: 0.08
   });
