@@ -92,8 +92,8 @@ npx live-server
 npm run dev
 Then open http://localhost:5173 or your live-server port.
 
+```bash
 ---
-
 ## 📁 Folder Structure  
 
 project-root/
@@ -181,3 +181,5 @@ Formspree – Form submission handler
 🪩 Live Demo
 
 🔗 View Portfolio on Vercel →
+
+
