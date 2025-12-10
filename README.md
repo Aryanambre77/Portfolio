@@ -91,9 +91,8 @@ npx live-server
 # Or (for Vite-based setup)
 npm run dev
 Then open http://localhost:5173 or your live-server port.
-
+```
 ---
-
 
 ## 📁 Folder Structure  
 
