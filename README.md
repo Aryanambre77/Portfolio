@@ -93,3 +93,94 @@ npm run dev
 Then open http://localhost:5173 or your live-server port.
 
 ---
+
+
+## 📁 Folder Structure  
+
+project-root/
+│
+├── index.html
+├── style.css
+├── script.js
+├── /assets/
+│ ├── images/
+│ ├── icons/
+│ └── fonts/
+├── /js/
+│ ├── gsap.min.js
+│ ├── locomotive-scroll.min.js
+│ └── main.js
+└── vercel.json
+
+---
+
+## 🚀 Deployment (Vercel)
+
+This project is deployed using Vercel
+.
+
+Steps:
+
+Push your code to GitHub
+
+Go to vercel.com
+ → Import your repo
+
+Framework preset: Vite or Other (for static)
+
+Build command:
+
+Static site → (none)
+
+Vite/React → npm run build
+
+Output directory:
+
+Static → /
+
+Vite → /dist
+
+Click Deploy 🎉
+
+Get your link → https://aryanambre.vercel.app
+
+---
+
+## 🌈 Design System
+
+Fonts: Inter, Bookman Old Style
+Colors: Neon Blue #5df5ff, Violet #a020f0, Pink #ff78f0
+UI Style: Glassmorphism + Glow Effects
+Animation Style: Cinematic fade-ins, parallax motion, blur transitions
+
+## 💡 Future Enhancements
+
+Add analytics dashboard with visitor data
+
+Integrate backend API for contact storage
+
+Add downloadable resume and interactive data visualizations
+
+Introduce light/dark mode toggle
+
+---
+
+## 🖤 Credits
+
+GSAP – GreenSock Animation Platform
+
+Locomotive Scroll – Smooth Parallax Scrolling
+
+Spline – 3D scene integration
+
+Phosphor Icons – Minimal vector icons
+
+Formspree – Form submission handler
+
+---
+
+🪩 Live Demo
+
+🔗 View Portfolio on Vercel →
+
+
