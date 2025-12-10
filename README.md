@@ -167,6 +167,8 @@ UI Style: Glassmorphism + Glow Effects
 
 Animation Style: Cinematic fade-ins, parallax motion, blur transitions
 
+---
+
 ## 💡 Future Enhancements
 
 Add analytics dashboard with visitor data
